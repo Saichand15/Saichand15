@@ -64,7 +64,7 @@ const saiChand = {
 - 📉 **Backtesting** — automated validation against the last 10 historical draws
 - ☁️ **Resilient Data Layer** — Supabase primary + JSON fallback strategy
 
-[![Repo](https://img.shields.io/badge/GitHub-lottolens-8b5cf6?style=for-the-badge&logo=github)](https://github.com/Saichand15/lottolens)
+[![Repo](https://img.shields.io/badge/GitHub-LottoLens-8b5cf6?style=for-the-badge&logo=github)](https://github.com/Saichand15/lottolens)
 
 ---
 
@@ -76,7 +76,7 @@ const saiChand = {
 
 > A mobile application project, showcasing cross-platform mobile development capabilities.
 
-[![Repo](https://img.shields.io/badge/GitHub-Urban--Melt--v2-8b5cf6?style=for-the-badge&logo=github)](https://github.com/Saichand15/Urban-_Melt-v2)
+[![Repo](https://img.shields.io/badge/GitHub-Urban--_Melt--v2-8b5cf6?style=for-the-badge&logo=github)](https://github.com/Saichand15/Urban-_Melt-v2)
 
 ---
 
